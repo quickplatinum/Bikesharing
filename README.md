@@ -1,4 +1,4 @@
-# Bike sharing NYC Citi Bike Analysis
+NYC Citi Bike Analysis
 ## Module 14: NYC Citi bike with Tableau
 
 ## Overview and Purpose
