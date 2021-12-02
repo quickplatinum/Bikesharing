@@ -21,44 +21,36 @@
 
 ### Tableau Public Story: [Link to Dashboard](https://public.tableau.com/app/profile/said.husseini/viz/NYCCitiBikeAnalysisModule14Challenge/NYCCitibikeChallengeAnalysis) 
 
-### 1.Total rides in the month of August for NYC Cito Bikes
-![Total Users](https://user-images.githubusercontent.com/88692025/144160951-262f39ce-dc06-423b-8757-1376925a2a5c.PNG)
-- An impressive statistic of 2.5 million rides, quite a bustling city!
-
-### 2. NYC Citi Bike Users by Gender
-![Users by Gender](https://user-images.githubusercontent.com/88692025/144160520-032bd370-0bcc-495e-9799-a86a17e470c0.PNG)
-- The Gender Breakdown for Citi Bike users within the month of August in New York City, the analysis shows that the majority of users self-identify as Male, 65% of the total user base. No real takeaways here unless it is possible to specifically target male users in future cities for more usage and revenue.
-
-### 3. NYC Citi Bike Customer Type
+### 1. NYC Citi Bike Customer Type
 ![Users by Type](https://user-images.githubusercontent.com/88692025/144160705-0e11b486-6584-4d8b-be89-163bb2da7fd5.PNG)
 - A good sign for this Citi Bike business in NYC, most users are revenue stable Subscribers that give a steady income to the bike sharing company. A staggering 81% of users.
 
-### 4. Top Starting Locations
+### 2. Top Starting Locations
 ![Top Starting Locations](https://user-images.githubusercontent.com/88692025/144161505-010cab2f-35d6-4089-b68f-8d90c034c0c4.PNG)
 - Logically, the most densely populated region in SOHO and Manhattan with the most tourism, offices and high rises has the largest concentration of starting locations, a useful insight for any city looking to replicate the Bike sharing standards of NYC.
 
-### 5. Checkout Times for Users
+### 3. Checkout Times for Users
 ![Trip Duration](https://user-images.githubusercontent.com/88692025/144161837-2113d3b5-c6c8-4f66-b218-8f8b72e2fe0b.PNG)
 - Checkout times seen here within the first 3 hours of starting a ride.
 - An overwhelming majority of Citi Bike trips are below the 1hr and 30-minute mark.
 
-### 6. Checkout Times for Users by Gender
+### 4. Checkout Times for Users by Gender
 ![Trip Duration by Gender](https://user-images.githubusercontent.com/88692025/144162007-70f2e7d1-4012-411b-b977-02e56edb1fcd.PNG)
 - Checkout times seen here within the first 3 hours of starting a ride by self-identified Gender.
 - Of the entire Citi Bike user base, Males tend to use bikes for longer than Females within the first hour. 
 
-### 7. Trips by Weekday per hour
+### 5. Trips by Weekday per hour
 ![Stop Time Heatmap](https://user-images.githubusercontent.com/88692025/144162326-5c74dba0-032a-43ea-86bf-7389d59c9736.PNG)
 - Bike Usage heatmap shows that most usage is concentrated in the 6-9AM and 3-6PM timeframes in line with NYC commuting and office work schedules.
 - Most frequent trips occurred on Thursdays in August.
 - Wednesdays least popular day of the week.
 
-### 8. Trips by Weekday per hour by Gender
+### 6. Trips by Weekday per hour by Gender
 ![Stop Time by Gender](https://user-images.githubusercontent.com/88692025/144162456-a6dff32e-f496-407f-84d4-f35786fb22f5.PNG)
 - From this heatmap we can determine that Males contributed the most during the rush hour commuting period.
 - Wednesdays least popular day of the week by any Gender split.
 
-### 9. Trips by Weekday by User Type and Gender
+### 7. Trips by Weekday by User Type and Gender
 ![User Trips by Gender by Weekday](https://user-images.githubusercontent.com/88692025/144162590-3f481380-57e5-4732-9f74-ad8c61473fe6.PNG)
 - This heatmap shows the majority of Citi Bike users in NYC are subscribers and of those Subscribers they are pre-dominantly self-identifying as being Male.
 
